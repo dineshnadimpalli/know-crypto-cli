@@ -1,14 +1,29 @@
 {
   "name": "know-crypto",
   "version": "1.0.0",
-  "description": "",
+  "description": "A crypto price checking cli tool",
+  "keywords": [
+    "crypto",
+    "node-cli",
+    "cryto-price",
+    "nomics-API"
+  ],
+  "homepage": "https://github.com/dineshnadimpalli/know-crypto-cli",
+  "bugs": {
+    "url": "https://github.com/dineshnadimpalli/know-crypto-cli/issues"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dineshnadimpalli/know-crypto-cli.git"
+  },
   "bin": "./bin/know-crypto.js",
   "author": "Dinesh Nadimpalli",
   "license": "MIT",
+  "private": false,
   "dependencies": {
     "axios": "^0.21.1",
     "colors": "^1.4.0",
