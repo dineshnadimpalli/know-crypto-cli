@@ -93,4 +93,4 @@ The following information will give you a brief overview of how you can use `kno
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/dineshnadimpalli/know-crypto-cli/blob/main/LICENSE) file for details
