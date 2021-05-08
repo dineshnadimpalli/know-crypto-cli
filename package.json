@@ -1,6 +1,6 @@
 {
   "name": "know-crypto",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A crypto price checking cli tool",
   "keywords": [
     "crypto",
