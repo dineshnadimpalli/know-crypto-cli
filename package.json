@@ -1,0 +1,19 @@
+{
+  "name": "know-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/know-crypto.js",
+  "author": "Dinesh Nadimpalli",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "commander": "^7.2.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^8.0.0"
+  }
+}
