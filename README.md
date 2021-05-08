@@ -91,8 +91,6 @@ The following information will give you a brief overview of how you can use `kno
 
 * **Dinesh Nadimpalli** - [Github](https://github.com/dineshnadimpalli)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
