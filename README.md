@@ -53,7 +53,7 @@ The following information will give you a brief overview of how you can use `kno
     remove          Remove API key
     help [command]  display help for command
     ```
-    ![key command usage](./assets/key_command_usage.png)
+    ![key command usage](https://github.com/dineshnadimpalli/know-crypto-cli/blob/main/assets/key_command_usage.png?raw=true)
 
  - `know-crypto check` - Will give you options/commands to check the price
     ```
@@ -84,7 +84,7 @@ The following information will give you a brief overview of how you can use `kno
 
 ## Examples
 
-![Get crypto prices](./assets/crypto_prices.png)
+![Get crypto prices](https://github.com/dineshnadimpalli/know-crypto-cli/blob/main/assets/crypto_prices.png?raw=true)
 
 
 ## Authors
