@@ -69,7 +69,7 @@ The following information will give you a brief overview of how you can use `kno
 
 ## Check the prices of crypto coins
 
- - `know-crypto check price -h` - will you option to customize what you want to get. By default option `coin` will be set to "BTC,ETH,XRP" and `curr` to "USD"
+ - `know-crypto check price -h` - will give you options to customize what you want to get. By default option `coin` will be set to "BTC,ETH,XRP" and `curr` to "USD"
 
     ```
     Usage: know-crypto-check price [options]
